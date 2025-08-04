@@ -129,5 +129,5 @@ with gr.Blocks(theme=gr.themes.Glass()) as dashboard:
 
 if __name__ == "__main__":
     # main()
-    dashboard.launch(share=True)
+    dashboard.launch()
     # print("Finished")
