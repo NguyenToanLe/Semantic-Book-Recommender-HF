@@ -2,6 +2,8 @@
 This project is an interactive, content-based book recommendation system. It leverages semantic search to help users
 discover new books by describing the type of book they are looking for, filtering by categories and emotional tones.
 
+<img src="./Demo.gif">
+
 ## Contents
 1. [Features](#features)
 2. [Technical Stack](#technical-stack)
